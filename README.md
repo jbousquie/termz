@@ -3,7 +3,7 @@
 features : 
 
 - historique prompt non redondant
-- ls qui présente sous la forme d'un file picker : navigation avec tab+flèches
+- ls qui présente sous la forme d'un file picker : navigation avec tab+flèches / cd sous-rep ou up automatique depuis le file picker
 - coloration/tri par type de fichier
 - copie automatique du path dans le presse-papier
 - multi-term
